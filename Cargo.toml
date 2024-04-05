@@ -17,7 +17,7 @@ default = ["use_dasp"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-whoami = "1.1"
+whoami = "1.5"
 scrap = { path = "libs/scrap" }
 hbb_common = { path = "libs/hbb_common" }
 enigo = { path = "libs/enigo" }
